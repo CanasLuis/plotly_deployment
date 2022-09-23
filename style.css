@@ -1,0 +1,15 @@
+body {
+    color: black;
+    background-color:aqua;
+}
+.tag {
+    font-family: Arial;
+    font-size:medium;
+}
+
+.jumbotron {
+    background-image: url("./JS/resources/image.jpg");
+    background-size: auto;
+    text-align:center;
+
+}
